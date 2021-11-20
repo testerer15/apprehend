@@ -1,3 +1,4 @@
 ge
-una linea mas
-tercera linea
+segunda linea en g desde main
+la tercera
+la cuarta
